@@ -1,0 +1,4 @@
+LangChain is a framework for building applications using large language models.
+Vector embeddings allow semantic search by representing text as numerical vectors.
+FAISS is a vector database used for fast similarity search.
+Retrieval-Augmented Generation improves LLM accuracy using external knowledge.
